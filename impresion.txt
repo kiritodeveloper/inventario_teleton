@@ -1,0 +1,25 @@
+================================
+       Carniceria KARSAD        
+================================
+ Calle Ingenieros 38            
+Loma Bonita,Tlax. Tel. 246228597
+Hora,Fecha 13:30:00 29/10/2019  
+Numero de Ticket: 77            
+Cliente: Mostrador              
+--------------------------------
+DESCRIPCION PRECIO CANT IMPORTE 
+                                
+LONGANIZA    89.0   1.0     89.0
+--------------------------------
+SubTotal                89.0    
+Descuento               22.0    
+Total de compra         67.0    
+Dinero recibido         70.0    
+Dinero devuelto         3.0     
+================================
+ !Gracias por su preferencia!   
+================================
+                                
+                                
+                                
+                                
